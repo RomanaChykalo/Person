@@ -1,7 +1,7 @@
 package remarkedHomeWork2;
 import java.util.Scanner;
 
-public class MainMathod {
+public class Main {
 
 	public static void main(String[] args) {
 		System.out.println("¬вед≥ть назву предмету.");
