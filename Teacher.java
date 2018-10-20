@@ -7,5 +7,6 @@ public class Teacher extends Person {
 	public Teacher(int age, String name, Subject[] teachersListOfSubject) {
 		super(age, name);
 		this.teachersListOfSubject = teachersListOfSubject;
+		this.secondListOfSubject = secondListOfSubject;
 	}
 }
