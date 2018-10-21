@@ -24,10 +24,5 @@ public class Main {
 		Pupil pupilRuslan = new Pupil(8, "Ruslan", 3, listOfSubject);
 		System.out.println("Student " + pupilRuslan.getName() + ", age " + pupilRuslan.getAge() + " years, "
 				+ "studies this list of subjects: " + Arrays.toString(listOfSubject));
+		}
 
-
-
-public class Main {
-
-
-}
