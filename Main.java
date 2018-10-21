@@ -1,4 +1,5 @@
 package remarkedHomeWork2;
+myBranch
 
 import java.util.Arrays;
 
@@ -15,7 +16,7 @@ public class Main {
 
 		System.out.println("Teacher " + teacherIvanna.getName() + ", age " + teacherIvanna.getAge() + " years, "
 				+ "teachs some subjects: " + Arrays.toString(teachersListOfSubject));
-		System.out.println("Teacher " + teacherPetro.getName() + ", age " + teacherPetro.getAge() + " років, "
+		System.out.println("Teacher " + teacherPetro.getName() + ", age " + teacherPetro.getAge() + " years, "
 				+ "teachs subjects like this: " + Arrays.toString(secondListOfSubject));
 
 		Subject[] listOfSubject = { Subject.getSubject("algebra"), Subject.getSubject("english") };
@@ -24,6 +25,9 @@ public class Main {
 		System.out.println("Student " + pupilRuslan.getName() + ", age " + pupilRuslan.getAge() + " years, "
 				+ "studies this list of subjects: " + Arrays.toString(listOfSubject));
 
-	}
+
+
+public class Main {
+
 
 }
